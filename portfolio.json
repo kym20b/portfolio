@@ -32,12 +32,12 @@
     },
     {
       "week": 4,
-      "title": "월간 보고 SQL 앱",
+      "title": "시스템 사용률 월간 보고 SQL 앱",
       "line": "매달 추출한 엑셀을 넣으면 정해 둔 질문의 답이 SQL과 함께 나옵니다",
-      "judgment": "재문의는 비율(해지 36.0%)과 건수(요금 2,053건)를 같이 보기로 정했다",
+      "judgment": "사용률이 낮은 시스템은 메뉴별 사용률까지 종합적으로 판단한다.",
       "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"],
-      "img": "",
-      "url": "https://sql-window-omega.vercel.app/"
+      "img": "img/w4.png",
+      "url": "https://my-sql-window.vercel.app"
     }
   ],
   "proposal": null
