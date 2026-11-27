@@ -38,6 +38,15 @@
       "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"],
       "img": "img/w4.png",
       "url": "https://my-sql-window.vercel.app"
+    },
+    {
+      "week": 5,
+      "title": "지표 사전",
+      "line": "",
+      "judgment": "",
+      "ai": [],
+      "img": "img/w5.png",
+      "url": "https://metric-dictionary-beta.vercel.app/"
     }
   ],
   "proposal": null
